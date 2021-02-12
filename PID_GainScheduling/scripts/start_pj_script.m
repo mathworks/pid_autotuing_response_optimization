@@ -4,3 +4,4 @@ pjObj = currentProject;
 
 %%
 system_model_name = 'system_model';
+open_index;
