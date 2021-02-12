@@ -1,7 +1,60 @@
-このモデルはMathWorks File Exchangeにて公開されています。<br>
-This model is also uploaded in FIle Exchange.
-[![View PID ゲインスケジューリング設計 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/79562-pid)
-<br>
-<br>
-最初に"PIDゲインスケジューリング設計.pdf"を開いて確認してください。<br>
-Please refer to the "PIDゲインスケジューリング設計.pdf" at first.
+# PID ゲインスケジューリング設計
+
+
+本サンプルモデルでは、非線形なプラントモデルを制御するPID制御器のゲインスケジューリングを、「Closed-Loop PID Autotuner」ブロックまたは「応答オプティマイザー」アプリを用いて設計する。ツールの使い方と、それぞれの手法のメリット、デメリットを把握することができる。
+
+
+
+
+最初に付属の「PIDゲインスケジューリング設計.pdf」を読むこと。
+
+
+# 必要なツールボックス
+
+
+本モデルでは、以下のツールボックスを利用する。ただし、インストールしていなくても、モデルを実行せず閲覧するだけであれば可能である。また、例題によっては使わないツールボックスもある。
+
+
+
+   -  MATLAB 
+   -  Simulink 
+   -  Simscape 
+   -  Control System Toolbox 
+   -  Simulink Control Design 
+   -  Simulink Design Optimization 
+   -  Optimization Toolbox 
+   -  Global Optimization Toolbox 
+   -  Parallel Computing Toolbox 
+   -  MATLAB Coder, Simulink Coder, Embedded Coder 
+
+# 必要なサポートパッケージ
+
+   -  MATLAB Support for MinGW-w64 C/C++ Compiler 
+
+
+
+※上記はWindows用のコンパイラである。Mac, Linuxでは、それぞれのOSに向けたコンパイラをインストールすること。
+
+
+
+
+※Windows用のコンパイラで、mexファイルを生成できるコンパイラであれば、MinGWでなくてもよい。
+
+
+# 目次
+
+
+[PIDゲインスケジューリングをAutotunerを用いて設計する](/PID_GainScheduling/design/design_GainScheduling_with_Autotuner_md.md)
+
+
+
+
+[PIDゲインスケジューリングを応答オプティマイザーを用いて設計する](/PID_GainScheduling/design/design_GainScheduling_with_ResponseEstimator_md.md)
+
+
+
+
+[PID AutotunerのPIL検証](/PID_GainScheduling/design/GainScheduling_PIL_md.md)
+
+
+
