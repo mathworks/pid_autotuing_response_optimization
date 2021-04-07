@@ -38,7 +38,7 @@ plot_results_in_SDI;
 ```
 
   
-# Embedded Coderコード生成
+# Embedded Coder®コード生成
 
 
 'PID_AutoTuning_tester_CodeGen.slx'を組み込みマイコン用にCコード生成する。'Ctrl + B'のショートカットを入力すると、コード生成が行われる。静的コード指標を確認すると、グローバル変数のサイズと静的スタックサイズは以下のようになった。

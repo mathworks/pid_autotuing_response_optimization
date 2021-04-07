@@ -16,16 +16,16 @@
 
 
 
-   -  MATLAB 
-   -  Simulink 
-   -  Simscape 
-   -  Control System Toolbox 
-   -  Simulink Control Design 
-   -  Simulink Design Optimization 
-   -  Optimization Toolbox 
+   -  MATLAB® 
+   -  Simulink® 
+   -  Simscape™ 
+   -  Control System Toolbox™ 
+   -  Simulink Control Design™ 
+   -  Simulink Design Optimization™ 
+   -  Optimization Toolbox™ 
    -  Global Optimization Toolbox 
-   -  Parallel Computing Toolbox 
-   -  MATLAB Coder, Simulink Coder, Embedded Coder 
+   -  Parallel Computing Toolbox™ 
+   -  MATLAB® Coder™, Simulink® Coder™, Embedded Coder® 
 
 # 必要なサポートパッケージ
 
