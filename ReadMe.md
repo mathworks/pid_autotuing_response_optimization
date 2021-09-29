@@ -6,7 +6,7 @@
 
 
 
-最初に付属の「PIDゲインスケジューリング設計.pdf」を読むこと。
+最初に付属の「PIDゲインスケジューリング設計.pdf」（Webリンクは[こちら](https://github.com/mathworks/pid_autotuing_response_optimization/blob/master/PID%E3%82%B2%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E8%A8%AD%E8%A8%88.pdf)）を読むこと。
 
 
 # 必要なツールボックス
@@ -55,6 +55,33 @@
 
 
 [PID AutotunerのPIL検証](/PID_GainScheduling/design/GainScheduling_PIL_md.md)
+
+
+# 過去バージョン
+
+
+過去のバージョンのファイル一式は、以下から得ることができる。ただし、過去のモデルには、古い時期に作成したサンプルしか含まれていないことに注意すること。
+
+
+
+
+GitHubからクローンしている場合には、以下の該当バージョンに戻すことで、過去バージョンファイルを得ることができる。
+
+
+  
+
+
+R2021a: [v3.0.2](https://github.com/mathworks/pid_autotuing_response_optimization/archive/v3.0.2.zip)
+
+
+
+
+R2020b: [v2.2](https://github.com/mathworks/pid_autotuing_response_optimization/archive/v2.2.zip)
+
+
+
+
+R2020a: [v1.1](https://github.com/mathworks/pid_autotuing_response_optimization/archive/v1.1.zip)
 
 
 

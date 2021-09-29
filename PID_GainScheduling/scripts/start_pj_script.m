@@ -1,5 +1,7 @@
 % Copyright 2020 The MathWorks, Inc.
 %% Init
+Simulink.sdi.clearPreferences;
+
 pjObj = currentProject;
 
 %%
