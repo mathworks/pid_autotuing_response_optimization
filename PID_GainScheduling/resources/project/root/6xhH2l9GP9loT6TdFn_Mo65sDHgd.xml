@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Command Location="environment.loadSimulink">
-  <Info Value="true"/>
+    <Info Value="true"/>
 </Command>

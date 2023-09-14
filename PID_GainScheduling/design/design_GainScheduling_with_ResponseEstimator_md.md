@@ -134,7 +134,7 @@ plot_results_in_SDI;
 
 
 
-応答オプティマイザーに戻り、「信号セットの作成」の信号をクリックして選択状態にして、右矢印をクリックし、OKをクリックする。
+信号セットの作成ウィンドウにて、選択した信号線が現れるので、この状態でOKボタンをクリックする。
 
 
 
@@ -154,12 +154,7 @@ plot_results_in_SDI;
 
 
 
-見やすくなるように、グラフを上下に分割させる。
-
-
-
-
-![image_8.png](design_GainScheduling_with_ResponseEstimator_md_images/image_8.png)
+見やすくなるように、グラフを上下に分割させる。![image_8.png](design_GainScheduling_with_ResponseEstimator_md_images/image_8.png)
 
 
 
@@ -174,7 +169,7 @@ plot_results_in_SDI;
 
 
 
-調整したい変数を複数選択し、左矢印をクリックする。Ctrl+クリックで複数選択することができる。
+調整したい変数を複数選択し、左矢印Cをクリックする。Ctrl+クリックで複数選択することができる。
 
 
 
@@ -184,7 +179,7 @@ plot_results_in_SDI;
 
 
 
-最小値を以下のように調整する。（コピー\&ペースト用：zeros(1, 14) ）
+最小値を「zeros(1, 14)」とする。最小値の欄に入力してEnterとすると、自動的に値が評価され、以下のようになる。
 
 
 
